@@ -1,0 +1,3 @@
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw13/1/cmake-build-debug/CMakeFiles/1.dir
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw13/1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw13/1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

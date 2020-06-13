@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw1/counting_sort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw1/counting_sort/main.cpp
+ReadWriter.h
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw1/counting_sort/ReadWriter.h
+

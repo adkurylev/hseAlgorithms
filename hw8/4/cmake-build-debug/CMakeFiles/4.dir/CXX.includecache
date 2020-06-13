@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw8/4/ReadWriter.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw8/4/main.cpp
+ReadWriter.h
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw8/4/ReadWriter.h
+set
+-
+

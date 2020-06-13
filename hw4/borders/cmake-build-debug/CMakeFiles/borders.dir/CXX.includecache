@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw4/borders/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+

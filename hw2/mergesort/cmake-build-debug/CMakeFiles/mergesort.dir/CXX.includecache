@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw2/mergesort/MergeSort.h
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw2/mergesort/ReadWriter.h
+iostream
+-
+fstream
+-
+
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw2/mergesort/main.cpp
+ReadWriter.h
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw2/mergesort/ReadWriter.h
+MergeSort.h
+C:/Programming/C++/HSE/SE/2 semestr/Hometask/hw2/mergesort/MergeSort.h
+vector
+-
+
